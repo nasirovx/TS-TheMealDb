@@ -1,0 +1,16 @@
+.content_item {
+    width: 249px;
+    color: #d57d1f;
+    cursor: pointer;
+}
+.content_item img {
+    width: 100%;
+    height: 100%;
+}
+.content_item p{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+.content_item p:hover{
+    color: #fb9e3b;
+}

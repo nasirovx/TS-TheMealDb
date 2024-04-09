@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1250px;
+}
+
+body{
+    background-color: #2d2013;
+}
+
+body::-webkit-scrollbar{
+    width: 10px;
+}
+
+body::-webkit-scrollbar-track{
+    background-color: #3d2a19;
+    border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: linear-gradient(180deg, #754d26, #5f4933)
+}

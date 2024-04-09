@@ -1,0 +1,34 @@
+.content_2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 30px 0;
+}
+.itemx {
+    width: 280px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+.imgx {
+    width: 249px;
+    height: 249px;
+}
+.imgx img {
+    width: 100%;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+}
+.itemx p{
+    font-size: 14px;
+    color: #d57d1f;
+    cursor: pointer;
+}
+.itemx p:hover{
+    color: #fb9e3b;
+}

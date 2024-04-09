@@ -1,0 +1,46 @@
+.contentx2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 30px 0;
+}
+.meal_contentx{
+    width: 250px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+.imagesx{
+    width: 250px;
+    height: 250px;
+}
+.imagesx img{
+    width: 100%;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+}
+.meal_contentx p:hover{
+    color: orange;
+}
+.meal_contentx p{
+    color: #d57d1f;
+}
+.textx{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+}
+
+.alfavitx h2{
+    font-size: 18px;
+    font-weight: 450;
+    text-align: center;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+}

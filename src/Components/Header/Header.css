@@ -1,0 +1,64 @@
+.navbar{
+    background-color: #23180d;
+    padding: 25px 0;
+}
+.nav_content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form_control{
+    display: flex;
+}
+
+.form_control input {
+    height: 40px;
+    width: 150px;
+    font-size: 17px;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 4px;
+}
+
+.form_control button{
+    display: none;
+}
+.nav{
+    width: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Link{
+    width: 160px;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Open Sans", sans-serif;
+}
+.home{
+    width: 65px;
+    height: 40px;
+    background-color: #c52d2f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    color: #ededed; 
+    border: none;
+}
+.Link a{
+    text-decoration: none;
+    color: #ededed;
+}
+.api{
+    width: 50px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+.api:hover{
+    background-color: #c52d2f;
+}
