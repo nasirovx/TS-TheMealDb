@@ -16,7 +16,7 @@ TypeScript: Обеспечивает статическую типизацию �
 
 bash
 Копировать код
-git clone https://github.com/username/TS_TheMealDB.git
+git clone https://github.com/nasirovx/TS_TheMealDB.git
 Перейдите в папку проекта:
 
 bash
